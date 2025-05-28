@@ -27,7 +27,7 @@ This repository contains the implementation of a Model Predictive Control (MPC) 
 * **Yo-Shiun Cheng** (386249)
 * **Jiwon You** (394716)
 
-**Supervisor:** Prof. Collin Jones, EPFL
+**Course Instructor:** Prof. Collin Jones, EPFL
 
 
 ## 🙏 Acknowledgments
